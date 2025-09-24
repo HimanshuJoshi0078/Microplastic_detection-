@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "c:\\Users\\himan\\OneDrive\\Desktop\\Microplastic Drtection\\venv\\Scripts\\python.exe"
+}
